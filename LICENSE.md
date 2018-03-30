@@ -1,12 +1,12 @@
 # DSP CONCEPTS, Inc - EVALUATION DEMO LICENSE AGREEMENT FOR AUDIO WEAVER SOLUTION
 
-IMPORTANT NOTICE: THIS IS A LEGAL DOCUMENT BETWEEN YOU (EITHER AS AN INDIVIDUAL OR ENTITY, hereinafter “LICENSEE”or “YOU”) AND DSPCONCEPTS, INC.(“DSPC”). DSPC IS WILLING TO LICENSE THE ACCOMPANYING DEMO SOFTWARE, ALGORITHMS,S PEAKER AND DEVELOPMENT BOARD (together, “SOLUTION”) TO YOU FOR YOUR INTERNAL EVALUATION PURPOSES ONLY UPON THE CONDITION THAT YOU ACCEPT ALL OF THE TERMS AND CONDITIONS CONTAINED IN THIS EVALUATION DEMO LICENSE AGREEMENT (“AGREEMENT”). READ THE FOLLOWING TERMS AND CONDITIONS CAREFULLY BEFORE USING THE SOLUTION BECAUSETHEY DEFINE YOUR RIGHTS AND OBLIGATIONS WITH RESPECT TO THE SOLUTION, UNLESS YOU AND DSPC HAVE EXECUTED A SEPARATE AGREEMENT GOVERNING USE OF THE SOLUTION. IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT, THEN DSPC IS UNWILLING TO LICENSE THE SOLUTION.  AN INDIVIDUAL WHO DOES NOT HAVE THE AUTHORITY TO BIND THE ENTITY USING THE SOLUTION SHALL NOT USE THE SOLUTION WITHOUT OBTAINING APPROVAL OF THIS AGREEMENT FROM A PERSON HAVING SUCH AUTHORITY.
+IMPORTANT NOTICE: THIS IS A LEGAL DOCUMENT BETWEEN YOU (EITHER AS AN INDIVIDUAL OR ENTITY, hereinafter “LICENSEE”or “YOU”) AND DSPCONCEPTS, INC.(“DSPC”). DSPC IS WILLING TO LICENSE THE ACCOMPANYING DEMO SOFTWARE, ALGORITHMS, SPEAKER AND DEVELOPMENT BOARD (together, “SOLUTION”) TO YOU FOR YOUR INTERNAL EVALUATION PURPOSES ONLY UPON THE CONDITION THAT YOU ACCEPT ALL OF THE TERMS AND CONDITIONS CONTAINED IN THIS EVALUATION DEMO LICENSE AGREEMENT (“AGREEMENT”). READ THE FOLLOWING TERMS AND CONDITIONS CAREFULLY BEFORE USING THE SOLUTION BECAUSE THEY DEFINE YOUR RIGHTS AND OBLIGATIONS WITH RESPECT TO THE SOLUTION, UNLESS YOU AND DSPC HAVE EXECUTED A SEPARATE AGREEMENT GOVERNING USE OF THE SOLUTION. IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT, THEN DSPC IS UNWILLING TO LICENSE THE SOLUTION.  AN INDIVIDUAL WHO DOES NOT HAVE THE AUTHORITY TO BIND THE ENTITY USING THE SOLUTION SHALL NOT USE THE SOLUTION WITHOUT OBTAINING APPROVAL OF THIS AGREEMENT FROM A PERSON HAVING SUCH AUTHORITY.
 
 ## 1. DEFINITIONS. 
 
-"ALGORITHMS" shall mean the algorithms owned by DSPC set forth in Exhibit Aattached hereto and hereby incorporated by reference. 
+"ALGORITHMS" shall mean the algorithms owned by DSPC set forth in Exhibit A attached hereto and hereby incorporated by reference. 
 
-"SOFTWARE"shall mean the Audio Weaver audio signal processing development environment which is included in the SOLUTION. A part of the SOFTWARE executes on the PC and a part executes on an embedded audio processor. 
+"SOFTWARE" shall mean the Audio Weaver audio signal processing development environment which is included in the SOLUTION. A part of the SOFTWARE executes on the PC and a part executes on an embedded audio processor. 
 
 "EXAMPLES" shall mean the block diagrams showing implementations of audio functions in Audio Weaver.
 
@@ -14,7 +14,7 @@ IMPORTANT NOTICE: THIS IS A LEGAL DOCUMENT BETWEEN YOU (EITHER AS AN INDIVIDUAL 
 
 "SOLUTION" shall mean the ALGORITHMS, SOFTWARE, EXAMPLES, DEVELOPMENT BOARD, SPEAKER and DOCUMENTS.
 
-## 2.OWNERSHIP ANDCOPYRIGHT NOTICE.
+## 2.OWNERSHIP AND COPYRIGHT NOTICE.
 
 LICENSEE acknowledges and agrees that (a) DSPC owns all right, title and interest in and to the SOLUTION, and all parts thereof, including all intellectual property rights therein and thereto, (b) the SOLUTION is licensed, not sold, (c) the SOLUTION, and all parts thereof, including but not limited to the source code and the specific design and structure of individual
 modules or programs, constitute or contain trade secrets of DSPC and its licensors and that (d) all parts of SOLUTION, including SOFTWARE, ALGORITHMS, DOCUMENTATION and EXAMPLES, are copyrighted material owned or distributed under authority by DSPC and are protected by United States copyright law and international treaties.
@@ -90,13 +90,13 @@ This Agreement is the complete and exclusive statement of the Agreement between 
 
 ### DSPC Algorithms
 
-Beam Forming
-Direction of Arrival
-Acoustic Echo Cancelling
-Noise Reduction
-Reverberation Handling
-Interference Noise Cancelling
-Attention Processing
+Beam Forming  
+Direction of Arrival  
+Acoustic Echo Cancelling  
+Noise Reduction  
+Reverberation Handling  
+Interference Noise Cancelling  
+Attention Processing  
 
 ### 3rd Party Algorithms
 
