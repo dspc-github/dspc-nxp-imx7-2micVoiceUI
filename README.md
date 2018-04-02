@@ -1,4 +1,4 @@
-# dspc-nxp-imx7
+# dspc-nxp-imx7-2micVoiceUI
 
 This is a demo release of DSPConcept's 2-mic Voice UI solution for NXP's I.MX7D processor.  Please refer to the NXP I.MX7D Voice UI Quickstart Guide for details on how to install the software.
 
